@@ -44,9 +44,16 @@ const App = () => {
       },
       {
         title: "Motivational Bot",
-        desc: "Bot para discord criado para enviar mensagens motivacionais a cada 30min ou quando solicitado.",
+        desc: "Bot para discord criado usando Golang e PostgreSQL para enviar mensagens motivacionais a cada 30min ou quando solicitado.",
         tech: ["Golang", "PostgreSQL"],
         link: "https://github.com/tox1cfps/motivationalPhrases",
+        category: "backend"
+      },
+      {
+        title: "RPG Game",
+        desc: "Jogo feito em Python para estudar Programação orientada ao objeto.",
+        tech: ["Python"],
+        link: "https://github.com/tox1cfps/rpg-python",
         category: "backend"
       }
     ],
