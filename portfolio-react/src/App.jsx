@@ -36,24 +36,10 @@ const App = () => {
     },
     projects: [
       {
-        title: "Notification API",
-        desc: "Uma API construída com Golang e usando PostgreSQL para enviar notificações via Email para um usuário.",
-        tech: ["Golang", "PostgreSQL"],
-        link: "https://github.com/tox1cfps/notification-api",
-        category: "backend"
-      },
-      {
-        title: "Motivational Bot",
-        desc: "Bot para discord criado usando Golang e PostgreSQL para enviar mensagens motivacionais a cada 30min ou quando solicitado.",
-        tech: ["Golang", "PostgreSQL"],
-        link: "https://github.com/tox1cfps/motivationalPhrases",
-        category: "backend"
-      },
-      {
-        title: "RPG Game",
-        desc: "Jogo feito em Python para estudar Programação orientada ao objeto.",
-        tech: ["Python"],
-        link: "https://github.com/tox1cfps/rpg-python",
+        title: "Projetos",
+        desc: "Projetos pessoais em desenvolvimento. Em breve novos repositórios públicos.",
+        tech: [],
+        link: "#",
         category: "backend"
       }
     ],
