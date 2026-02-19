@@ -35,7 +35,7 @@ const App = () => {
       period: "2026 - 2028"
     },
     projects: [
-      {/*
+      {
         title: "Notification API",
         desc: "Uma API construída com Golang e usando PostgreSQL para enviar notificações via Email para um usuário.",
         tech: ["Golang", "PostgreSQL"],
@@ -55,7 +55,7 @@ const App = () => {
         tech: ["Python"],
         link: "https://github.com/tox1cfps/rpg-python",
         category: "backend"
-      */}
+      }
     ],
     experience: [
       {
