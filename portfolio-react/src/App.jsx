@@ -66,7 +66,7 @@ const App = () => {
             <div className="bg-indigo-600 p-1.5 rounded-lg group-hover:rotate-12 transition-transform">
               <Terminal size={20} className="text-white" />
             </div>
-            <span className="font-bold text-xl tracking-tight text-white">dev.portfolio</span>
+            <span className="font-bold text-xl tracking-tight text-white">Arthur.Dev</span>
           </div>
           <div className="hidden md:flex items-center gap-8 text-sm font-medium text-slate-400">
             <a href="#about" className="hover:text-indigo-400 transition-colors">Sobre</a>
