@@ -36,10 +36,10 @@ const App = () => {
     },
     projects: [
       {
-        title: "Projetos",
-        desc: "Projetos pessoais em desenvolvimento. Em breve novos repositórios públicos.",
-        tech: [],
-        link: "#",
+        title: "Discord Bot",
+        desc: "Bot de discord com cunho 'jornalistico comico' feito pra interação em servidores de discord. Feito em Python.",
+        tech: ["Python"],
+        link: "https://github.com/tox1cfps/discord-bot",
         category: "backend"
       }
     ],
